@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="rippleColor">#32DBED</color>
+    <color name="originalColor">#FFDF8E</color>
+    <color name="selectedColor">#6BE2EF</color>
+    <color name="correctans">#388E3C</color>
+    <color name="Incorrectans">#FF0065</color>
+</resources>
